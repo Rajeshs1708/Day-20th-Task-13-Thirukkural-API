@@ -1,0 +1,13 @@
+#container{
+    background-color: coral;
+}
+#form{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.content{
+padding-top: 25px;
+padding-bottom: 25px;
+border-top: 1px solid #E7E7E7;
+}
